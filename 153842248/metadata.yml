@@ -1,0 +1,12 @@
+---
+:id: 153842248
+:submitters:
+- :name: Ian Tsai
+  :email: itsai2@uw.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2022-12-11 21:07:57.042548000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2022-12-11 13:07:57.042548000 Z
+:status: processed
+:score: 9.0
